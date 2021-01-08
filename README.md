@@ -1,5 +1,3 @@
-![](https://gardeneroracle.io/wp-content/themes/gardener/img/logo.png)
-
 # Oracle server
 
 [![CircleCI](https://circleci.com/gh/EspeoBlockchain/gardener-server.svg?style=shield)](https://circleci.com/gh/EspeoBlockchain/gardener-server)
